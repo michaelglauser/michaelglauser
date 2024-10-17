@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelglauser
+- 👋 Hi, I’m Mike
 - 👀 I write enterprise and end-user technical documentation for software.  
 
 <!---
